@@ -9,7 +9,7 @@
   
 - 👀 My Github Stats:
   
-<p align="center">
+<div style="text-align: center;">
     ![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriquedlrm16)
-</p>
+</div>
 
