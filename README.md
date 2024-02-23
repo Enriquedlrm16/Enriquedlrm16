@@ -1,7 +1,41 @@
-<div justify-content: center; margin: 0 0.5rem;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" height="auto">
-    <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="250" height="auto">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Famous Places</title>
+<style>
+  h1 {
+    text-align: center;
+    text-shadow: grey 2px 2px 10px;
+  }
+
+  div {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px; /* Added margin for spacing */
+  }
+
+  img {
+    height: 100px;
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 20px;
+    display: block;
+    margin: 0 0.5rem;
+  }
+</style>
+</head>
+<body>
+  <h1>Visit These Famous Places</h1>
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Beijing" title="Beijing, China">
+    <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" alt="Grand Canyon" title="Grand Canyon, Phoenix, USA">
+  </div>
+</body>
+</html>
 
 - 👋 Hi, I’m Enrique de la Rosa
 - 👀 I’m interested in Bioinformatics or Bio Data Science Worlds
