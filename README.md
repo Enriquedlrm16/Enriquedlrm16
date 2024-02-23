@@ -13,3 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=enriquedlrm16">
 </p>
 
+- Programming languages:
+
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
