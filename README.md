@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" height="auto">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="250" height="auto">
-</p>
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" height="auto">
+    <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="250" height="auto">
+</div>
 
 - 👋 Hi, I’m Enrique de la Rosa
 - 👀 I’m interested in Bioinformatics or Bio Data Science Worlds
