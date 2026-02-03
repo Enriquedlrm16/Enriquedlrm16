@@ -12,12 +12,6 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE0NjAwMzIsIm5iZiI6MTc1MTQ1OTczMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAyVDEyMzUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0MzU2Y2U1YWQ5NTZjOTdmYzYxY2Y3OTBjY2JkYzUyOThjODIyYWJiMzU2OTQzODA5YTAxZDYzNmY5M2ViMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6ZoIqc57ltUKiy93bKlV5URRyh5i18RiC1GT7JEp6ms" width="550" height="auto">
 </p>
   
-- 👀 My Github Stats:
-  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=enriquedlrm16">
-</p>
-
 - Programming languages, systems and apps:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
