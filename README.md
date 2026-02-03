@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Enrique de la Rosa
 - 👀 I’m interested in Data Science & Bioinformatics Worlds
-- 🌱 I’m currently working as Data Scientist in Hopla Software (Spain)
+- 🌱 I’m currently working as Data Scientist in NTT Data (Spain)
 - 📫 How to reach me: enriquedlrm98@gmail.com // https://www.linkedin.com/in/enrique-de-la-rosa-moron-b1b512155/
 
 <p align="center">
